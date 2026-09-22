@@ -1,9 +1,9 @@
 {
-    "version":  "1.2.0",
-    "versionCode":  10200,
-    "url":  "https://github.com/jiajiemo1-cpu/enginelink-mobile/releases/download/v1.2.0/enginelink-1.2.0.apk",
-    "size":  3944236,
-    "sha256":  "83B6D1B643163829EE0D08DA590DF87A49747AF4BCCBE081DC8C3233CE9D7521",
-    "note":  "运行日志入口移入账号菜单；首页四卡弹性填满；新增韩语",
-    "releasedAt":  "2026-09-23 01:06:57"
+  "version": "1.2.0",
+  "versionCode": 10200,
+  "url": "https://github.com/jiajiemo1-cpu/enginelink-mobile/releases/download/v1.2.0/enginelink-1.2.0.apk",
+  "size": 4010335,
+  "sha256": "274862E45777CA27F44BAA470C2071B6633BB725D6E984BB73C646F19CED929E",
+  "note": "根据最新首页效果图重做首页UI",
+  "releasedAt": "2026-09-23 02:06:14"
 }
