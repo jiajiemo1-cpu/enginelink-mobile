@@ -1,9 +1,9 @@
 {
-    "version":  "1.2.9",
-    "versionCode":  10209,
-    "url":  "https://github.com/jiajiemo1-cpu/enginelink-mobile/releases/download/v1.2.9/enginelink-1.2.9.apk",
-    "size":  3949183,
-    "sha256":  "110531E0CC2FE85654986BEDC42AF61C25B96A23BDEE18932DF92D49E0CD8C0D",
-    "note":  "参数选择新增默认和船用模板",
-    "releasedAt":  "2026-09-23 11:55:44"
+    "version":  "1.2.10",
+    "versionCode":  10210,
+    "url":  "https://github.com/jiajiemo1-cpu/enginelink-mobile/releases/download/v1.2.10/enginelink-1.2.10.apk",
+    "size":  3950256,
+    "sha256":  "4B3B7A96EC50145F1B0CA2E167DD57946916A905C3442AFA9812191822D13532",
+    "note":  "新增启动更新弹窗、燃油系统识别和故障码Excel保存",
+    "releasedAt":  "2026-09-23 12:23:47"
 }
