@@ -1,9 +1,9 @@
 {
-  "version": "1.2.12",
-  "versionCode": 10212,
-  "url": "https://github.com/jiajiemo1-cpu/enginelink-mobile/releases/download/v1.2.12/enginelink-1.2.12.apk",
-  "size": 3979151,
-  "sha256": "1A6377E1A6DC6D4078573000DE835CE4E33D4D86976550931014D720B1D647B9",
-  "note": "Apple 风格 UI 重做",
-  "releasedAt": "2026-09-24 00:24:52"
+    "version":  "1.2.13",
+    "versionCode":  10213,
+    "url":  "https://github.com/jiajiemo1-cpu/enginelink-mobile/releases/download/v1.2.13/enginelink-1.2.13.apk",
+    "size":  3979153,
+    "sha256":  "369684A6D19FF4B0F420EACC83FA9E3573BBE699048D541EAB1E87B10C5EA022",
+    "note":  "修复电磁阀测试卡片底部文字对齐",
+    "releasedAt":  "2026-09-24 00:34:31"
 }
