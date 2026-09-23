@@ -1,9 +1,9 @@
 {
-    "version":  "1.2.8",
-    "versionCode":  10208,
-    "url":  "https://github.com/jiajiemo1-cpu/enginelink-mobile/releases/download/v1.2.8/enginelink-1.2.8.apk",
-    "size":  3948940,
-    "sha256":  "29957EF417614A66A64B44E598A799C3C61B379F4FB26286057E6DB7B799836D",
-    "note":  "优化二级弹层可读性并增强首页玻璃质感",
-    "releasedAt":  "2026-09-23 11:27:38"
+    "version":  "1.2.9",
+    "versionCode":  10209,
+    "url":  "https://github.com/jiajiemo1-cpu/enginelink-mobile/releases/download/v1.2.9/enginelink-1.2.9.apk",
+    "size":  3949183,
+    "sha256":  "110531E0CC2FE85654986BEDC42AF61C25B96A23BDEE18932DF92D49E0CD8C0D",
+    "note":  "参数选择新增默认和船用模板",
+    "releasedAt":  "2026-09-23 11:55:44"
 }
