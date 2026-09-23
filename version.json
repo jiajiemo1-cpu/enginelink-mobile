@@ -1,9 +1,9 @@
 {
-  "version": "1.2.1",
-  "versionCode": 10201,
-  "url": "https://github.com/jiajiemo1-cpu/enginelink-mobile/releases/download/v1.2.1/enginelink-1.2.1.apk",
-  "size": 3946189,
-  "sha256": "B72C72736512E5DD66BFBC3F0DDEC42889B60E0402DA07E88E261620C97443FC",
-  "note": "首页按最新效果图重做",
-  "releasedAt": "2026-09-23 10:15:19"
+  "version": "1.2.2",
+  "versionCode": 10202,
+  "url": "https://github.com/jiajiemo1-cpu/enginelink-mobile/releases/download/v1.2.2/enginelink-1.2.2.apk",
+  "size": 3946199,
+  "sha256": "DAC05D9CC3E511DB19B85BEE017D6F13072B78E395FFB2508731D957768C4633",
+  "note": "修复更新清单地址缓存问题",
+  "releasedAt": "2026-09-23 10:20:01"
 }
