@@ -1,9 +1,9 @@
 {
-    "version":  "1.2.13",
-    "versionCode":  10213,
-    "url":  "https://github.com/jiajiemo1-cpu/enginelink-mobile/releases/download/v1.2.13/enginelink-1.2.13.apk",
-    "size":  3979153,
-    "sha256":  "369684A6D19FF4B0F420EACC83FA9E3573BBE699048D541EAB1E87B10C5EA022",
-    "note":  "修复电磁阀测试卡片底部文字对齐",
-    "releasedAt":  "2026-09-24 00:34:31"
+    "version":  "1.2.14",
+    "versionCode":  10214,
+    "url":  "https://github.com/jiajiemo1-cpu/enginelink-mobile/releases/download/v1.2.14/enginelink-1.2.14.apk",
+    "size":  3979607,
+    "sha256":  "50EA63830BD7377CC5BA45021A1E595A35149822AAB04D9EFD45D511842D346E",
+    "note":  "首页连接状态卡片新增柔和斜向扫光",
+    "releasedAt":  "2026-09-24 01:09:40"
 }
