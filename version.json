@@ -1,9 +1,9 @@
 {
-    "version":  "1.2.14",
-    "versionCode":  10214,
-    "url":  "https://github.com/jiajiemo1-cpu/enginelink-mobile/releases/download/v1.2.14/enginelink-1.2.14.apk",
-    "size":  3979607,
-    "sha256":  "50EA63830BD7377CC5BA45021A1E595A35149822AAB04D9EFD45D511842D346E",
-    "note":  "首页连接状态卡片新增柔和斜向扫光",
-    "releasedAt":  "2026-09-24 01:09:40"
+    "version":  "1.2.15",
+    "versionCode":  10215,
+    "url":  "https://github.com/jiajiemo1-cpu/enginelink-mobile/releases/download/v1.2.15/enginelink-1.2.15.apk",
+    "size":  3980832,
+    "sha256":  "424AD64528F258AC43FEEE488EA9629440DAB0A05DF4CFB606626BBA1E657506",
+    "note":  "修复燃油系统识别，并新增故障首次检测时间与默认参数冻结帧",
+    "releasedAt":  "2026-09-25 01:48:20"
 }
