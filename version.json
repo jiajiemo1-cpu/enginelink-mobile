@@ -1,9 +1,9 @@
 {
-    "version":  "1.3.1",
-    "versionCode":  10301,
-    "url":  "https://github.com/jiajiemo1-cpu/enginelink-mobile/releases/download/v1.3.1/enginelink-1.3.1.apk",
-    "size":  3991040,
-    "sha256":  "A5034434127DFC22961D355632E0C73A68D2E00C52DEF602E5A9B923FECF3029",
-    "note":  "修复登录信息管理页在小屏被截断导致添加账号不可见/不可点的问题；添加账号成功后立即提示",
-    "releasedAt":  "2026-09-29 09:14:08"
+    "version":  "1.4.0",
+    "versionCode":  10400,
+    "url":  "https://github.com/jiajiemo1-cpu/enginelink-mobile/releases/download/v1.4.0/enginelink-1.4.0.apk",
+    "size":  3991227,
+    "sha256":  "ABB1B4009960F90DA818B40DD2939D94A10EF03CE78F57639551C8FEE4CA2AA2",
+    "note":  "有效期版本：2026-12-12 后停止可用",
+    "releasedAt":  "2026-09-30 08:03:25"
 }
