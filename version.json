@@ -1,9 +1,9 @@
 {
-    "version":  "1.4.0",
-    "versionCode":  10400,
-    "url":  "https://github.com/jiajiemo1-cpu/enginelink-mobile/releases/download/v1.4.0/enginelink-1.4.0.apk",
-    "size":  3991227,
-    "sha256":  "ABB1B4009960F90DA818B40DD2939D94A10EF03CE78F57639551C8FEE4CA2AA2",
-    "note":  "有效期版本：2026-12-12 后停止可用",
-    "releasedAt":  "2026-09-30 08:03:25"
+    "version":  "1.4.1",
+    "versionCode":  10401,
+    "url":  "https://github.com/jiajiemo1-cpu/enginelink-mobile/releases/download/v1.4.1/enginelink-1.4.1.apk",
+    "size":  3995654,
+    "sha256":  "BF1E5F257D9F088018A9C956E11319A734262AE0337FB1DDD211B2AA1859BB3F",
+    "note":  "修复参数监控卡顿与读数定格，增强 WiFi 连接、断线重连及应用内更新稳定性",
+    "releasedAt":  "2026-10-14 05:56:45"
 }
